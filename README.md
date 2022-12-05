@@ -4,7 +4,7 @@ This game (2048) was built using **React** and **TypeScript**. The unique part o
 
 ## How To Play?
 
-You can play 2048 on [Github pages]()
+You can play 2048 on [Github pages](https://dhruvi0211.github.io/2048_Game/)
 
 ## Available Scripts
 
